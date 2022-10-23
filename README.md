@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?color=61DAFB&height=350&text=Hello%20World!&desc=github%20of%20ahah)
-
-
+![header](https://capsule-render.vercel.app/api?color=auto&height=300&text=Hello%20World!&desc=github%20of%20ahah&type=waving)
 
 > Site
-- Blog : https://ahah-dev.tistory.com/
-
-
+- Blog : https://ahah-dev.tistory.com/  
+#
+#
+#
+#
 > Tech Stack
 - ![java](https://img.shields.io/badge/Java-303030.svg?&style=for-the-badge&logo=Java&lcolor=white) ![kotlin](https://img.shields.io/badge/Kotlin-303030.svg?&style=for-the-badge&logo=kotlin) ![javascript](https://img.shields.io/badge/javascript-303030.svg?&style=for-the-badge&logo=javascript)
 
