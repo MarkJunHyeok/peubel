@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=auto&height=300&text=Welcome!&type=waving)
+![header](https://capsule-render.vercel.app/api?color=auto&height=100&text=Welcome%20JunHub!&type=waving)
 
 > Site
 - Blog : https://ahah-dev.tistory.com/  
